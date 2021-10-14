@@ -17,7 +17,7 @@
     position: absolute;
 }
 .container-x{
-      height: 100vh;
+    height: 100vh;
     width: 100%;
     overflow-x: hidden;
     display: flex;
@@ -27,10 +27,7 @@
 .vedio{
     position: absolute;
     text-align: center;
-    z-index: -3;
-    background-color: red;
-    
-    
+    z-index: -3;   
 }
 .img{
     height: 80vh;
